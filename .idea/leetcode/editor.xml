@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LeetcodeEditor">
+    <option name="projectConfig">
+      <map>
+        <entry key="$USER_HOME$/Documents/leetcode/leetcode/editor/cn/[1662]检查两个字符串数组是否相等.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/Documents/leetcode/leetcode/editor/cn/doc/content/[1662]检查两个字符串数组是否相等.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1662" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$USER_HOME$/Documents/leetcode/leetcode/editor/cn/[1662]检查两个字符串数组是否相等.go" />
+              <option name="titleSlug" value="check-if-two-string-arrays-are-equivalent" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/leetcode/leetcode/editor/cn/[1742]盒子中小球的最大数量.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/Documents/leetcode/leetcode/editor/cn/doc/content/[1742]盒子中小球的最大数量.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1742" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$USER_HOME$/Documents/leetcode/leetcode/editor/cn/[1742]盒子中小球的最大数量.go" />
+              <option name="titleSlug" value="maximum-number-of-balls-in-a-box" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/leetcode/leetcode/editor/cn/[1]两数之和.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/Documents/leetcode/leetcode/editor/cn/doc/content/[1]两数之和.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$USER_HOME$/Documents/leetcode/leetcode/editor/cn/[1]两数之和.go" />
+              <option name="titleSlug" value="two-sum" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/leetcode/leetcode/editor/cn/[645]错误的集合.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/Documents/leetcode/leetcode/editor/cn/doc/content/[645]错误的集合.md" />
+              <option name="frontendQuestionId" value="leetcode.cn645" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$USER_HOME$/Documents/leetcode/leetcode/editor/cn/[645]错误的集合.go" />
+              <option name="titleSlug" value="set-mismatch" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
